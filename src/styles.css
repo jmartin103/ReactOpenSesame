@@ -7,7 +7,7 @@
   font-family: sans-serif;
   text-align: center;
   padding: 100px;
-  background: #00bf6a;
+  background: #bcbf00;
   color: #fff;
   height: 100vh;
 }
@@ -15,6 +15,7 @@
 h2 {
   margin-bottom: 30px;
   font-size: 24px;
+  color: black;
 }
 
 input {
@@ -28,8 +29,18 @@ input {
 p {
   margin-top: 12px;
   font-size: 14px;
+  color: black;
 }
 
 p strong {
   font-size: 16px;
+}
+
+#passBtn {
+  color: white;
+  background-color: green;
+  font-family: cursive;
+  padding: 10px 12px;
+  margin: 10px 0px 0px 0px;
+  border-radius: 5px;
 }
